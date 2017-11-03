@@ -1,1 +1,1 @@
-Azart Zona H5 client
+Golden Game H5 client
