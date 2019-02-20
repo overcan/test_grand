@@ -1,1 +1,1 @@
-Golden Game H5 client
+Test Cazino H5 client
