@@ -1,1 +1,1 @@
-Test Cazino H5 client
+Grand Casino H5 client

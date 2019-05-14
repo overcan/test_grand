@@ -1,4 +1,4 @@
 <?xml version="1.0"?>
-<Client buildversion="8.0.0.0" cefversion="55.0.2883.59">
-   <Mirror>http://grand.h5dev.lan/gc/?cgaddr=195.234.98.155&saddr=wssstaging.gserver.mega-hosting.net&chaddr=195.234.98.108:8040&faddr=staging-server.lan&kaddr=kassa.test.lan&debug&dev</Mirror>
+<Client buildversion="9.0.0.0" cefversion="70.0.3538.102">
+   <Mirror>https://grand-download.com</Mirror>
 </Client>
